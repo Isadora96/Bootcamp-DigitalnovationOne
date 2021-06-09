@@ -6,6 +6,8 @@ Neste projeto aprendi muito sobre divs e como estruturar tudo no HTML, por isso 
 Aproveitei o JQUERY para esconder e mostrar botões no estado hover das imagens. 
 Esse estado foi feito em JavaScript Vanilla e ao clicar no botão Sinopse o mesmo desaparece para mostrar o texto.
 
+Importante: Para acessar a página principal clique no botão 'Vamos Lá'.
+
 #PROPOSTA ORIGINAL
 
 ![image](https://user-images.githubusercontent.com/80006401/119549317-795aa280-bd6d-11eb-8914-f9ef902b6a46.png)
