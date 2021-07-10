@@ -8,6 +8,8 @@ Esse estado foi feito em JavaScript Vanilla e ao clicar no botão Sinopse o mesm
 
 Importante: Para acessar a página principal clique no botão 'Vamos Lá'.
 
+Live Site: https://isadoralopes.netlify.app/bootcamp-digitalnovationone-main/netflix/
+
 #PROPOSTA ORIGINAL
 
 ![image](https://user-images.githubusercontent.com/80006401/119549317-795aa280-bd6d-11eb-8914-f9ef902b6a46.png)
