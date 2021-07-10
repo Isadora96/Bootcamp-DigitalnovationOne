@@ -6,6 +6,8 @@ Reconstrução da página inicial do Instagram como desafio do Bootcamp JavaScri
 
 Neste projeto escolhi por criar os inputs de login ao invés da proposta original, pois me daria um pouco mais de prática nesse campo.
 
+Live site: https://isadoralopes.netlify.app/bootcamp-digitalnovationone-main/instagram/
+
 #PROPOSTA ORIGINAL
 
 ![image](https://user-images.githubusercontent.com/80006401/117879401-531d0900-b27d-11eb-8359-d86ff6947c4c.png)
@@ -19,6 +21,10 @@ Neste projeto escolhi por criar os inputs de login ao invés da proposta origina
 Clone do canal de streamings Netflix como desafio do Bootcamp JavaScript Game Developer.
 
 Neste projeto aprendi muito sobre divs e como estruturar tudo no HTML, por isso pra agregar ainda mais no aprendizado também recriei a página de login.
+
+Importante: Clique em 'Vamos lá' para acessar a página principal.
+
+Live site: https://isadoralopes.netlify.app/bootcamp-digitalnovationone-main/netflix/
 
 #PROPOSTA ORIGINAL
 
