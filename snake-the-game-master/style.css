@@ -1,0 +1,30 @@
+body{
+    height: 95vh;
+    width: 95vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: #bdc3c7;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #2c3e50, #bdc3c7);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #2c3e50, #bdc3c7); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+#title {
+    color: rgb(103, 218, 103);
+}
+
+button {
+    padding: .4em .8em;
+    border: none;
+    background-color: green;
+    color: white;
+    font-weight: 900;
+    letter-spacing: 1px;
+    cursor: pointer;
+}
+
+canvas {
+    
+    background-image: url('snake.png');
+}
