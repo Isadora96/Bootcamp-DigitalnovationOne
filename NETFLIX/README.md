@@ -1,4 +1,4 @@
-#Projeto 2:
+# Projeto 2:
 
 Clone do canal de streamings Netflix como desafio do Bootcamp JavaScript Game Developer.
 
@@ -10,11 +10,11 @@ Importante: Para acessar a página principal clique no botão 'Vamos Lá'.
 
 Live Site: https://isadoralopes.netlify.app/bootcamp-digitalnovationone-main/netflix/
 
-#PROPOSTA ORIGINAL
+# PROPOSTA ORIGINAL
 
 ![image](https://user-images.githubusercontent.com/80006401/119549317-795aa280-bd6d-11eb-8914-f9ef902b6a46.png)
 
-#MEU PROJETO FINAL
+# MEU PROJETO FINAL
 
 ![image](https://user-images.githubusercontent.com/80006401/119549744-ecfcaf80-bd6d-11eb-9f4c-40dd80a021b4.png)
 
