@@ -5,4 +5,4 @@ Neste repositório estão os projetos realizados da plataforma Digital Innovatio
 - Instragram
 - Netflix
 - Snake game
-
+- Dino game
