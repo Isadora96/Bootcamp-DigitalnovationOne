@@ -2,4 +2,4 @@
 
 ## Recriando o jodo Dino com vanila JavaScript
 
-![image](https://user-images.githubusercontent.com/80006401/139753529-27066d1d-1f36-468f-9220-5f12c6769f53.png)
+![image](https://user-images.githubusercontent.com/80006401/139753571-8c01c17e-a8d6-4819-af17-3039c19f5309.png)
